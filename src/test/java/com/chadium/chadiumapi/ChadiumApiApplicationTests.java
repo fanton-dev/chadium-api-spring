@@ -9,5 +9,4 @@ class ChadiumApiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
